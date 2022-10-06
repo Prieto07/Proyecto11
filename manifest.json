@@ -1,0 +1,17 @@
+{
+"name": "Proyecto11",
+"short_name": "Proyecto11",
+"theme_color": "#ffe08a",
+"background_color": "standalone",
+"orientation": "portrait",
+"scope": "./",
+"start_url": "./",
+"icons": [
+    {
+        "src":  "./imagen_icono.png",
+        "type": "image/png",
+        "sizes": "512x512"
+
+    }
+]
+}
